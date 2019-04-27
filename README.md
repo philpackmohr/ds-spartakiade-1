@@ -19,3 +19,5 @@ Covered today
 - PCA
 - kmeans
 - hierachical
+
+Tomorrow we will cover the evaluation metrics
