@@ -9,13 +9,13 @@ This is another change!!!
 
 Covered today
 
-SVM
-LR
-NB
-RF
-LDA
-LR
-NN (Christian)
-PCA
-kmeans
-hierachical
+- SVM
+- LR
+- NB
+- RF
+- LDA
+- LR
+- NN (Christian)
+- PCA
+- kmeans
+- hierachical
