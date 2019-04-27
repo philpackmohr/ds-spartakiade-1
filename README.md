@@ -15,7 +15,7 @@ NB
 RF
 LDA
 LR
-NN
+NN (Christian)
 PCA
 kmeans
 hierachical
