@@ -19,3 +19,5 @@ NN (Christian)
 PCA
 kmeans
 hierachical
+
+Tomorrow we will cover the evaluation metrics
