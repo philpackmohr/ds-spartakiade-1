@@ -1,4 +1,8 @@
 # ds-spartakiade
 Christian and me collaborate on a conference
 
-This is a change that i just made
+This is a change that I just made
+
+## Change from Christian
+
+This is another change!!!
