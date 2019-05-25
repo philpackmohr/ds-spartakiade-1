@@ -21,3 +21,4 @@ Covered today
 - hierachical
 
 Tomorrow we will cover the evaluation metrics
+Now the floppy disk changed. cool.
