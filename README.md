@@ -20,6 +20,8 @@ Covered today
 - kmeans
 - hierachical
 
+## Change from Philipp
+
 Tomorrow we will cover the evaluation metrics.
 
 Now the floppy disk changed. cool.
