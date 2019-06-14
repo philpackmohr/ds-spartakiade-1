@@ -21,3 +21,5 @@ Covered today
 - hierachical
 
 Tomorrow we will cover the evaluation metrics
+
+I think you made a new repo, called ds-spartakiade-1 
